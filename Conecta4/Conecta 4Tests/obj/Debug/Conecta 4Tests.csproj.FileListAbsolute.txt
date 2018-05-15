@@ -1,0 +1,25 @@
+C:\Users\pjpon\Documents\Repositorios\Informatica 2\Informatica-No.2\Conecta 4\Conecta 4\Conecta 4Tests\bin\Debug\xunit.abstractions.dll
+C:\Users\pjpon\Documents\Repositorios\Informatica 2\Informatica-No.2\Conecta 4\Conecta 4\Conecta 4Tests\bin\Debug\xunit.runner.visualstudio.testadapter.dll
+C:\Users\pjpon\Documents\Repositorios\Informatica 2\Informatica-No.2\Conecta 4\Conecta 4\Conecta 4Tests\bin\Debug\xunit.runner.utility.net35.dll
+C:\Users\pjpon\Documents\Repositorios\Informatica 2\Informatica-No.2\Conecta 4\Conecta 4\Conecta 4Tests\bin\Debug\xunit.runner.reporters.net452.dll
+C:\Users\pjpon\Documents\Repositorios\Informatica 2\Informatica-No.2\Conecta 4\Conecta 4\Conecta 4Tests\bin\Debug\Conecta 4Tests.dll
+C:\Users\pjpon\Documents\Repositorios\Informatica 2\Informatica-No.2\Conecta 4\Conecta 4\Conecta 4Tests\bin\Debug\Conecta 4Tests.pdb
+C:\Users\pjpon\Documents\Repositorios\Informatica 2\Informatica-No.2\Conecta 4\Conecta 4\Conecta 4Tests\bin\Debug\Conecta 4.exe
+C:\Users\pjpon\Documents\Repositorios\Informatica 2\Informatica-No.2\Conecta 4\Conecta 4\Conecta 4Tests\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\pjpon\Documents\Repositorios\Informatica 2\Informatica-No.2\Conecta 4\Conecta 4\Conecta 4Tests\bin\Debug\xunit.assert.dll
+C:\Users\pjpon\Documents\Repositorios\Informatica 2\Informatica-No.2\Conecta 4\Conecta 4\Conecta 4Tests\bin\Debug\xunit.core.dll
+C:\Users\pjpon\Documents\Repositorios\Informatica 2\Informatica-No.2\Conecta 4\Conecta 4\Conecta 4Tests\bin\Debug\xunit.execution.dotnet.dll
+C:\Users\pjpon\Documents\Repositorios\Informatica 2\Informatica-No.2\Conecta 4\Conecta 4\Conecta 4Tests\bin\Debug\Conecta 4.pdb
+C:\Users\pjpon\Documents\Repositorios\Informatica 2\Informatica-No.2\Conecta 4\Conecta 4\Conecta 4Tests\bin\Debug\Conecta 4.exe.config
+C:\Users\pjpon\Documents\Repositorios\Informatica 2\Informatica-No.2\Conecta 4\Conecta 4\Conecta 4Tests\bin\Debug\xunit.assert.xml
+C:\Users\pjpon\Documents\Repositorios\Informatica 2\Informatica-No.2\Conecta 4\Conecta 4\Conecta 4Tests\bin\Debug\xunit.core.xml
+C:\Users\pjpon\Documents\Repositorios\Informatica 2\Informatica-No.2\Conecta 4\Conecta 4\Conecta 4Tests\bin\Debug\xunit.execution.dotnet.xml
+C:\Users\pjpon\Documents\Repositorios\Informatica 2\Informatica-No.2\Conecta 4\Conecta 4\Conecta 4Tests\obj\Debug\Conecta 4Tests.csprojResolveAssemblyReference.cache
+C:\Users\pjpon\Documents\Repositorios\Informatica 2\Informatica-No.2\Conecta 4\Conecta 4\Conecta 4Tests\obj\Debug\Conecta 4Tests.csproj.CoreCompileInputs.cache
+C:\Users\pjpon\Documents\Repositorios\Informatica 2\Informatica-No.2\Conecta 4\Conecta 4\Conecta 4Tests\obj\Debug\Conecta 4Tests.csproj.CopyComplete
+C:\Users\pjpon\Documents\Repositorios\Informatica 2\Informatica-No.2\Conecta 4\Conecta 4\Conecta 4Tests\obj\Debug\Conecta 4Tests.dll
+C:\Users\pjpon\Documents\Repositorios\Informatica 2\Informatica-No.2\Conecta 4\Conecta 4\Conecta 4Tests\obj\Debug\Conecta 4Tests.pdb
+C:\Users\pjpon\Documents\Repositorios\Informatica 2\Informatica-No.2\Conecta 4\Conecta 4\Conecta 4Tests\bin\Debug\xunit.runner.utility.net452.dll
+C:\Users\pjpon\Documents\Repositorios\Informatica 2\Informatica-No.2\Conecta 4\Conecta 4\Conecta 4Tests\bin\Debug\nunit.framework.dll
+C:\Users\pjpon\Documents\Repositorios\Informatica 2\Informatica-No.2\Conecta 4\Conecta 4\Conecta 4Tests\bin\Debug\nunit.framework.pdb
+C:\Users\pjpon\Documents\Repositorios\Informatica 2\Informatica-No.2\Conecta 4\Conecta 4\Conecta 4Tests\bin\Debug\nunit.framework.xml
